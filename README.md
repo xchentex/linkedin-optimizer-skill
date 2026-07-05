@@ -1,4 +1,3 @@
-# 🚀 LinkedIn Optimizer — Skill para Claude
 
 <p align="center">
   <img src="./assets/banner.svg" alt="LinkedIn Optimizer — Claude Skill by ChenteIA" width="100%">
